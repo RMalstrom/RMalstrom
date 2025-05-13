@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Klipper Configuration**
 
-- 👯 I’m looking to collaborate on **a fully 3D printed tool changer**
-
 - 📫 How to reach me **rmaldev@proton.me**
 
 <h3 align="left">Connect with me:</h3>
